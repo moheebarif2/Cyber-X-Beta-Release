@@ -1,5 +1,5 @@
 {
-  "name": "Cyber-X WA BOT",
+  "name": "Moheeb Arif Bot",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release",
   "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -9,8 +9,8 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
+      "url": "https://github.com/moheebarif2/Cyber-X-Beta-Release/blob/master/app.json"
+    },https://github.com/moheebarif2/Cyber-X-Beta-Release/blob/master/app.json
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
